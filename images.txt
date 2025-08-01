@@ -1,3 +1,4 @@
+mcr.microsoft.com/mssql/server:2019-latest
 ghcr.io/snailyp/gemini-balance
 7techlife/seven
 7techlife/sevenhy2
