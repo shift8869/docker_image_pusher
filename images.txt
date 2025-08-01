@@ -4,6 +4,8 @@ ghcr.io/snailyp/gemini-balance
 rustdesk/rustdesk-server-s6
 n8nio/n8n
 nginx
+dockurr/windows
+ollama/ollama
 #mcr.microsoft.com/mssql/server:2019-latest
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
