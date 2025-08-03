@@ -1,3 +1,4 @@
+ghcr.io/senshinya/moontv
 ghcr.io/snailyp/gemini-balance
 7techlife/seven
 7techlife/sevenhy2
