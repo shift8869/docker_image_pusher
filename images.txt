@@ -4,6 +4,7 @@ ghcr.io/snailyp/gemini-balance
 7techlife/sevenhy2
 rustdesk/rustdesk-server-s6
 n8nio/n8n
+alpine
 nginx
 dockurr/windows
 ollama/ollama
