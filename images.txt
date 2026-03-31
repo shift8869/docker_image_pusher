@@ -1,5 +1,5 @@
 #yiwanaishare/iptv-aggregator
-#n8nio/n8n
+n8nio/n8n
 #mysql
 #ghcr.io/senshinya/moontv
 ghcr.io/snailyp/gemini-balance
