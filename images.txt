@@ -1,5 +1,6 @@
 #yiwanaishare/iptv-aggregator
 n8nio/n8n
+lejianwen/rustdesk-api
 #mysql
 #ghcr.io/senshinya/moontv
 ghcr.io/snailyp/gemini-balance
