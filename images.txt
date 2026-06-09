@@ -7,7 +7,6 @@ lejianwen/rustdesk-server-s6
 ghcr.io/snailyp/gemini-balance
 #7techlife/seven
 #7techlife/sevenhy2
-#rustdesk/rustdesk-server-s6
 #alpine
 #nginx
 #dockurr/windows
