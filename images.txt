@@ -1,12 +1,12 @@
 #############  weknora 所用镜像清单
-wechatopenai/weknora-ui:latest
-wechatopenai/weknora-app:latest
-wechatopenai/weknora-sandbox:latest
-wechatopenai/weknora-docreader:latest
-paradedb/paradedb:v0.22.6-pg17
-redis:7.0-alpine
-busybox:1.36
-searxng/searxng:latest
+#wechatopenai/weknora-ui:latest
+#wechatopenai/weknora-app:latest
+#wechatopenai/weknora-sandbox:latest
+#wechatopenai/weknora-docreader:latest
+#paradedb/paradedb:v0.22.6-pg17
+#redis:7.0-alpine
+#busybox:1.36
+#searxng/searxng:latest
 quay.io/minio/minio:RELEASE.2025-09-07T16-13-09Z
 neo4j:2025.10.1
 qdrant/qdrant:v1.16.2
